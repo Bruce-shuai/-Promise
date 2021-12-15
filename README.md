@@ -1,1 +1,1 @@
-# -Promise
+# 手写 Promise
